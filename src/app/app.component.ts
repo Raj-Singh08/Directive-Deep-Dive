@@ -4,6 +4,7 @@ import { AuthComponent } from './auth/auth.component';
 import { LearningResourcesComponent } from './learning-resources/learning-resources.component';
 import { AuthService } from './auth/auth.service';
 import { Auth } from './auth/auth';
+import { Log } from './log';
 
 @Component({
   selector: 'app-root',
